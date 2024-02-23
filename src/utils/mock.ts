@@ -14,6 +14,7 @@ export const Products:Product[]=[
     {
         id:1,
         name:'product1',
+        tagline:'Dress',
         price:20,
         category:'female',
         image: image1
@@ -21,6 +22,7 @@ export const Products:Product[]=[
     {
         id:2,
         name:'product2',
+        tagline:'Dress',
         price:20,
         category:'female',
         image: image2
@@ -28,6 +30,7 @@ export const Products:Product[]=[
     {
         id:3,
         name:'product3',
+        tagline:'Dress',
         price:20,
         category:'female',
         image: image3
@@ -35,6 +38,7 @@ export const Products:Product[]=[
     {
         id:4,
         name:'product4',
+        tagline:'Dress',
         price:20,
         category:'female',
         image: image4
@@ -42,6 +46,7 @@ export const Products:Product[]=[
     {
         id:5,
         name:'product5',
+        tagline:'Dress',
         price:20,
         category:'female',
         image: image5
@@ -49,6 +54,7 @@ export const Products:Product[]=[
     {
         id:6,
         name:'product6',
+        tagline:'Dress',
         price:20,
         category:'female',
         image: image6
@@ -56,6 +62,7 @@ export const Products:Product[]=[
     {
         id:7,
         name:'product7',
+        tagline:'Dress',
         price:20,
         category:'female',
         image: image7
@@ -63,6 +70,7 @@ export const Products:Product[]=[
     {
         id:8,
         name:'product8',
+        tagline:'Dress',
         price:20,
         category:'female',
         image: image8
@@ -70,6 +78,7 @@ export const Products:Product[]=[
     {
         id:9,
         name:'product9',
+        tagline:'Dress',
         price:20,
         category:'male',
         image: image9
@@ -77,6 +86,7 @@ export const Products:Product[]=[
     {
         id:10,
         name:'product10',
+        tagline:'Dress',
         price:20,
         category:'male',
         image: image10

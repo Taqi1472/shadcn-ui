@@ -23,9 +23,11 @@ function Header() {
                     <Link href={"/products"}>All Products</Link>
                 </li>
             </ul>
+            <Link href='/cart'>
             <div className="w-10 h-10 bg-slate-200 rounded-full flex justify-center items-center">
                 <ShoppingCart/>
-            </div>
+            </div>            
+            </Link>
         </div>
      );
 }
